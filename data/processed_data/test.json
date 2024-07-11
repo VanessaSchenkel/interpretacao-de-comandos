@@ -1,0 +1,21 @@
+[
+    {
+        "instruction": "Ative o queimador inferior.",
+        "initial_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        },
+        "final_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "ligado"
+        }
+    }
+]

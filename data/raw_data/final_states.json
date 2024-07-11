@@ -1,0 +1,50 @@
+{
+    "1": {
+        "microondas": "aberto",
+        "chaleira": "fora do fogão",
+        "luz": "desligada",
+        "armario": "fechado",
+        "queimador_superior": "desligado",
+        "queimador_inferior": "desligado"
+    },
+    "2": {
+        "microondas": "fechado",
+        "chaleira": "no fogão",
+        "luz": "desligada",
+        "armario": "fechado",
+        "queimador_superior": "desligado",
+        "queimador_inferior": "desligado"
+    },
+    "3": {
+        "microondas": "fechado",
+        "chaleira": "fora do fogão",
+        "luz": "ligada",
+        "armario": "fechado",
+        "queimador_superior": "desligado",
+        "queimador_inferior": "desligado"
+    },
+    "4": {
+        "microondas": "fechado",
+        "chaleira": "fora do fogão",
+        "luz": "desligada",
+        "armario": "aberto",
+        "queimador_superior": "desligado",
+        "queimador_inferior": "desligado"
+    },
+    "5": {
+        "microondas": "fechado",
+        "chaleira": "fora do fogão",
+        "luz": "desligada",
+        "armario": "fechado",
+        "queimador_superior": "ligado",
+        "queimador_inferior": "desligado"
+    },
+    "6": {
+        "microondas": "fechado",
+        "chaleira": "fora do fogão",
+        "luz": "desligada",
+        "armario": "fechado",
+        "queimador_superior": "desligado",
+        "queimador_inferior": "ligado"
+    }
+}

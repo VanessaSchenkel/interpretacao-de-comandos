@@ -1,0 +1,18 @@
+{
+    "objects": [
+        "microondas",
+        "chaleira",
+        "luz",
+        "armario",
+        "queimador_superior",
+        "queimador_inferior"
+    ],
+    "actions": [
+        "abrir",
+        "fechar",
+        "colocar",
+        "retirar",
+        "ligar",
+        "desligar"
+    ]
+}

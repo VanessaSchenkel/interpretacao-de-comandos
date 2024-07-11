@@ -1,0 +1,78 @@
+[
+    {
+        "instruction": "Abra a porta do microondas.",
+        "initial_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        },
+        "final_state": {
+            "microondas": "aberto",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        }
+    },
+    {
+        "instruction": "Coloque a chaleira no fog\u00e3o.",
+        "initial_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        },
+        "final_state": {
+            "microondas": "fechado",
+            "chaleira": "no fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        }
+    },
+    {
+        "instruction": "Ligue o interruptor da luz.",
+        "initial_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        },
+        "final_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "ligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        }
+    },
+    {
+        "instruction": "Abra o arm\u00e1rio deslizante.",
+        "initial_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "fechado",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        },
+        "final_state": {
+            "microondas": "fechado",
+            "chaleira": "fora do fog\u00e3o",
+            "luz": "desligada",
+            "armario": "aberto",
+            "queimador_superior": "desligado",
+            "queimador_inferior": "desligado"
+        }
+    }
+]
